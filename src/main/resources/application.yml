@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+#spring:
+#  application:
+#    name: refactoring-test
+#  datasource:
+#    url: jdbc:postgresql://localhost:5432/refactoring-db
+#    username: refactoring-db
+#    password: 12345678
